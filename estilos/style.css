@@ -4,7 +4,7 @@
 }
 
 body {
-    background-color: aqua;
+    background-color: rgba(0, 255, 255, 0.5);
 }
 
 img.lado {
@@ -12,7 +12,7 @@ img.lado {
 }
 
 main {
-    background-color: blueviolet;
+    background-color: rgba(43, 205, 226, 0.384);
     width: 500px;
     margin: auto;
     padding: 10px;
